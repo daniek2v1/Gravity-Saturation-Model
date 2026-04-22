@@ -1,2 +1,1 @@
-# Gravity-Saturation-Model
-Gravity Saturation Model
+A Python-based gravity engine demonstrating that galactic rotation curves and spacecraft anomalies (Pioneer/Flyby) can be unified through grid viscosity and saturation limits, eliminating the need for Dark Matter.
